@@ -2,3 +2,20 @@
 body {
     background-color: #827397;
 }
+
+hr {
+    background-color: #827397;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: purple;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1.title {
+    color: #363062;
+}
+
+h3.title {
+    color: #363062;
+}
