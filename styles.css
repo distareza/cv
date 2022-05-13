@@ -1,21 +1,31 @@
 
 body {
-    background-color: #827397;
+    !background-color: #827397;
+    font-family: monospace;
 }
 
 hr {
-    background-color: #827397;
+    !background-color: #827397;
     border-style: none;
     border-top-style: dotted;
-    border-color: purple;
+    border-color: black;
     border-width: 5px;
     width: 5%;
 }
 
 h1.title {
-    color: #363062;
+    !color: #363062;
 }
 
 h3.title {
-    color: #363062;
+    text-align: left;
+    !color: #363062;
+}
+
+table.content {
+    padding-left: 10px;
+}
+
+.pro {
+    text-decoration : underline;
 }
