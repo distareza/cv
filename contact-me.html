@@ -5,26 +5,28 @@
     <title>Contact Me</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-<h1 class="title">Contact Detail</h1>
-<form class="" action="mailto:dista_reza@yahoo.com" method="post" enctype="text/plain">
+<body data-contact-page>
+<h1 class="title" data-contact-heading></h1>
+<form class="" data-contact-form action="" method="post" enctype="text/plain">
     <table>
         <tr>
-            <td><label>Your Name :</label></td>
+            <td><label data-contact-name-label></label></td>
             <td><input type="text" name="yourName" value=""></td>
         </tr>
         <tr>
-            <td><label>Your Email : </label></td>
+            <td><label data-contact-email-label></label></td>
             <td><input type="email" name="yourEmail" value=""></td>
         </tr>
         <tr>
-            <td><label>Your Message : </label></td>
+            <td><label data-contact-message-label></label></td>
             <td><textarea name="yourMessage" rows="10" cols="80"></textarea></td>
         </tr>
     </table>
-    <input type="submit">
+    <input data-contact-submit type="submit">
 </form>
-<p><em>Thank you for being respectful, I will answer your message once I read it. Have a nice day ahead</em></p>
+<p><em data-contact-thank-you></em></p>
+
+<script src="render-content.js"></script>
 
 </body>
 </html>
