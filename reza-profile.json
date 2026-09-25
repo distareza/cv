@@ -11,7 +11,7 @@
 		"image": "images/reza_profile.png",
 		"imageAlt": "Dista Reza",
 		"summary": "Senior Technical Consultant with more than 20 years of experience delivering enterprise software, integration, cloud-native, and AI-enabled solutions across automotive, retail, finance, telecommunications, manufacturing, and airline industries. Experienced in solution architecture, technical leadership, Product Information Management (PIM), SAP technologies, Enterprise Integration, API platforms, and cloud delivery using AWS, Azure, and Google Cloud. Skilled in full-stack development, DevOps, Agile methodologies, and enterprise-scale application support. Currently focused on cloud-native architectures, Generative AI, LLM integration, Retrieval-Augmented Generation (RAG), automation workflows, and AI-assisted enterprise solutions."
-	}
+	},
     "specialties": [
 		"Enterprise Solution Architecture and Technical Leadership",
 		"Java Enterprise Development using Spring Boot, Spring JPA, Hibernate, Apache Wicket, Struts, EJB, JSP, and Servlet technologies",
