@@ -5,24 +5,27 @@
         "keyword": "Dista Reza",
         "author": "Dista Reza"
     },
-    "profile": {
-        "name": "Dista Reza",
-        "role": "Senior Java Developer",
-        "image": "images/reza_profile.png",
-        "imageAlt": "Dista Reza",
-        "summary": "I am **Technical Leader**, **Senior System Analyst** and **Senior Software Engineer** and Developer for developing, maintaining, support and monitoring many enterprise system applications for various companies since year 2002 until now as detailed on my working experience below.\n\nI have been involved in full stack system development project using Java Enterprise Platform, Shell scripting and Oracle DB, as well as in collaborating with other system like SAP, Dot Net application other external system with having full knowledge of DevOps with experiences in adoption Agile Methodology for multiple types of Business Domain (Telecommunication, Manufacture, Financial, Scheduling System and more) in various type of Industry (Telecoms, Automotive Manufacture, Airline Services, Finance Banking and more) and with various technology area (Middleware, Enterprise, Backend Processes, Web application and Desktop application). My Bachelors Degree of Informatics Engineering came from STTTelkom (now known as Telkom University), Bandung, West Java, Indonesia, in July 2002.\n\nI start my career as *Programmer* in Software Consultant Company in Jakarta Indonesia, and after a decade years later of dedication, I decided to move to Malaysia to explore more interesting opportunity. I sharpen my technical skill through the involvement and working experiences in many projects with multi type of business domain in multinational company and in a variety type of Industry and Technology."
-    },
+	"profile": {
+		"name": "Dista Reza",
+		"role": "Senior Technical Consultant | Solution Architect | Enterprise Integration Specialist",
+		"image": "images/reza_profile.png",
+		"imageAlt": "Dista Reza",
+		"summary": "Senior Technical Consultant with more than 20 years of experience delivering enterprise software, integration, cloud-native, and AI-enabled solutions across automotive, retail, finance, telecommunications, manufacturing, and airline industries. Experienced in solution architecture, technical leadership, Product Information Management (PIM), SAP technologies, Enterprise Integration, API platforms, and cloud delivery using AWS, Azure, and Google Cloud. Skilled in full-stack development, DevOps, Agile methodologies, and enterprise-scale application support. Currently focused on cloud-native architectures, Generative AI, LLM integration, Retrieval-Augmented Generation (RAG), automation workflows, and AI-assisted enterprise solutions."
+	}
     "specialties": [
-        "Enterprise Development with Java Enterprise Technology using variant framework such as Spring, Apache Wicket, Struts, Java Servlet, EJB & JSP using multiple IDE like Eclipse, Rational Application Developer, IntelliJ on many Web Server Container Like Apache Tomcat, Jboss, IBM Web sphere.",
-        "Familiar Development using GitHub repository along with Maven and Ant build tool and Continues Deployment and Development tool such as Jenkins",
-        "Hibernate, Spring JPA and Simple JDBC Development",
-        "Jasper Report Development",
-        "NodeJS and Python Development",
-        "Virtual Machine Development Using VirtualBox, WLS2 and docker container",
-        "Experience with Linux Development Environment like Bash Shell, Korn Shell, Monit and Corn Scripting",
-        "Experience working with Cache Service like Oracle Coherence, and Apache Solr",
-        "Experience working with Oracle DB and mySQL, experience in Query manipulation or modifying Data model, Procedure, Packages, Function and Database Administration like indexing and optimizing query with Oracle Database.",
-        "Web Programming with Dynamic HTML using JavaScript (jQuery)"
+		"Enterprise Solution Architecture and Technical Leadership",
+		"Java Enterprise Development using Spring Boot, Spring JPA, Hibernate, Apache Wicket, Struts, EJB, JSP, and Servlet technologies",
+		"Product Information Management (PIM) Solutions using Informatica PIM",
+		"SAP BTP, SAPUI5, OData Integration and Enterprise Extension Development",
+		"REST API, Microservice and Enterprise Integration Architecture",
+		"Cloud-Native Development using AWS, Azure and Google Cloud",
+		"Generative AI, LLM Integration, Prompt Engineering and Retrieval-Augmented Generation (RAG)",
+		"Workflow Automation using n8n and AI-assisted Development",
+		"DevOps, CI/CD, Git, Maven, Jenkins and Containerization using Docker/Podman",
+		"Oracle, SQL Server, PostgreSQL, MySQL, Elasticsearch, Redis and MongoDB",
+		"Linux Administration, Shell Scripting, PowerShell and Automation",
+		"Solution Design, Agile Delivery and Enterprise Support Operations",	
+        "NodeJS and Python Development"
     ],
     "workExperience": [
         { "dates": "Jan 2022 - Present", "works": "Senior Technical Consultant at Arvato Systems Malaysia" },
@@ -34,8 +37,16 @@
         { "dates": "Jan 2003 - Aug 2003", "works": "Programmer - Indonesia" }
     ],
     "skills": [
-        { "name": "Java Development", "rating": "★★★★★" },
-        { "name": "Web and Javascript Development", "rating": "★★★★★" },
+		{ "name": "Enterprise Solution Architecture", "rating": "★★★★★" },
+		{ "name": "Java / Spring Development", "rating": "★★★★★" },
+		{ "name": "Cloud Computing (AWS/Azure/GCP)", "rating": "★★★★★" },
+		{ "name": "Enterprise Integration & APIs", "rating": "★★★★★" },
+		{ "name": "Product Information Management (PIM)", "rating": "★★★★★" },
+		{ "name": "Generative AI & LLM Integration", "rating": "★★★★" },
+		{ "name": "SAP BTP & SAPUI5", "rating": "★★★★" },
+		{ "name": "Database Technologies", "rating": "★★★★★" },
+		{ "name": "Workflow Automation (n8n)", "rating": "★★★★" },
+		{ "name": "DevOps & Containerization", "rating": "★★★★" },	
         { "name": "Python Development", "rating": "★★★★★" },
         { "name": "NodeJS Development", "rating": "★★★" },
         { "name": "Linux Development", "rating": "★★★★★" },
@@ -55,10 +66,10 @@
         "heroName": "I'm Dista Reza",
         "profession": "a programmer",
         "greeting": "Hello.",
-        "intro": "I am a **System Analyst** and **Technical Lead** for Developing, Collaborating, Maintaining an Enterprise Level Software Application.",
+		"intro": "I am a **Senior Technical Consultant**, **Solution Architect**, and **Technical Lead** specializing in Enterprise Integration, Product Information Management (PIM), Cloud Computing, and AI-enabled Solutions.",
         "careerHeading": "My Career",
         "careerTitle": "Java Enterprise Development",
-        "careerDescription": "I have been involved in system development project using **Java**, **Shell Scripting** and **Oracle Database** queries for various type of business (Telecommunication, Manufacture, Financial, Scheduling System and more) in various type of Industry (Telecoms, Automotive, Airline Services, Banking and more) and various technology area (Middleware, Enterprise, Web application and Desktop application).",
+		"careerDescription": "With over 20 years of experience, I have delivered enterprise-scale solutions across automotive, retail, finance, telecommunications, manufacturing, and airline industries using Java, Cloud Platforms, REST APIs, SAP Technologies, Informatica PIM, and Generative AI solutions.",
         "educationTitle": "Education",
         "educationDescription": "My Bachelors Degree of Informatics Engineering came from **Sekolah Tinggi Teknologi Telkom (STTTelkom)**, Bandung, West Java, Indonesia, in July 2002.",
         "contactHeading": "Get In Touch",
