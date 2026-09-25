@@ -9,11 +9,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Sacramento&family=Merriweather&family=Montserrat+Alternates&display=swap" rel="stylesheet">
 </head>
-<body>
+<body data-about-page>
     <div class="top-container">
         <img class="top-cloud" src="images/cloud.png" alt="cloud">
-        <h1 id="name">I'm Dista Reza</h1>
-        <h2>a <span class="pro">pro</span>grammer</h2>
+    <h1 id="name" data-about-name></h1>
+    <h2 data-about-profession></h2>
 
         <img class="bottom-cloud" src="images/cloud.png" alt="cloud">
         <img class="" src="images/mountain.png" alt="mountain">
@@ -23,39 +23,39 @@
 <div class="middle-container">
   <div class="profile">
     <img src="images/reza_profile.png" alt="Dista Reza">
-    <h2>Hello.</h2>
-    <p class="intro">I am a System Analyst and Technical Lead for Developing, Collaborating, Maintaining an Enterprise Level Software Application.</p>
+    <h2 data-about-greeting></h2>
+    <p class="intro" data-about-intro></p>
   </div>
   <hr>
   <div class="skills">
-    <h2>My Career</h2>
+    <h2 data-about-career-heading></h2>
     <div class="skill-row">
       <img class="skill-image" src="images/computer.png" alt="">
-      <h3>Java Enterprise Development</h3>
-      <p class="skill-description">I have been involved in system development project using Java, Shell Scripting and
-Oracle Database queries for various type of business (Telecommunication, Manufacture, Financial, Scheduling System and more) in various type of Industry (Telecoms, Automotive, Airline Services, Banking and more) and various technology area (Middleware, Enterprise, Web application and Desktop application).  </p>
+      <h3 data-about-career-title></h3>
+      <p class="skill-description" data-about-career-description></p>
     </div>
     <div class="skill-row">
       <img class="skill-image2" src="images/education.png" alt="">
-      <h3>Education</h3>
-      <p class="skill-description">My Bachelors Degree of Informatics Engineering came from Sekolah Tinggi Teknologi Telkom (STTTelkom), Bandung, West Java, Indonesia, in July 2002.</p>
+      <h3 data-about-education-title></h3>
+      <p class="skill-description" data-about-education-description></p>
     </div>
   </div>
   <hr>
   <div class="contact-me">
-    <h2>Get In Touch</h2>
+    <h2 data-about-contact-heading></h2>
     <!--<h3>Lorem ipsum dolor sit amet, non elit.</h3>
     <p class="contact-message">Lorem ipsum dolor sit amet, in quis, aenean amet. Phasellus sodales, tellus donec dui, ornare erat.</p>-->
-    <a class="btn" href="mailto:dista_reza@yahoo.com">CONTACT ME</a>
+    <a class="btn" data-about-contact-button href=""></a>
   </div>
 </div>
 
 
 <div class="bottom-container">
-  <a class="footer-link" href="https://www.linkedin.com/in/distareza/">LinkedIn</a>
-  <a class="footer-link" href="https://www.instagram.com/kucingjantan">Instagram</a>
-  <p class="copyright">© 2022 Dista Reza.</p>
+  <span data-about-footer-links></span>
+  <p class="copyright" data-about-copyright></p>
 </div>
+
+<script src="render-content.js"></script>
 
 </body>
 </html>

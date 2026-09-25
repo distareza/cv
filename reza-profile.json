@@ -1,0 +1,96 @@
+{
+    "page": {
+        "title": "Dista Reza Resume",
+        "description": "Dista Reza",
+        "keyword": "Dista Reza",
+        "author": "Dista Reza"
+    },
+	"profile": {
+		"name": "Dista Reza",
+		"role": "Senior Technical Consultant | Solution Architect | Enterprise Integration Specialist",
+		"image": "images/reza_profile.png",
+		"imageAlt": "Dista Reza",
+		"summary": "Senior Technical Consultant with more than 20 years of experience delivering enterprise software, integration, cloud-native, and AI-enabled solutions across automotive, retail, finance, telecommunications, manufacturing, and airline industries. Experienced in solution architecture, technical leadership, Product Information Management (PIM), SAP technologies, Enterprise Integration, API platforms, and cloud delivery using AWS, Azure, and Google Cloud. Skilled in full-stack development, DevOps, Agile methodologies, and enterprise-scale application support. Currently focused on cloud-native architectures, Generative AI, LLM integration, Retrieval-Augmented Generation (RAG), automation workflows, and AI-assisted enterprise solutions."
+	},
+    "specialties": [
+		"Enterprise Solution Architecture and Technical Leadership",
+		"Java Enterprise Development using Spring Boot, Spring JPA, Hibernate, Apache Wicket, Struts, EJB, JSP, and Servlet technologies",
+		"Product Information Management (PIM) Solutions using Informatica PIM",
+		"SAP BTP, SAPUI5, OData Integration and Enterprise Extension Development",
+		"REST API, Microservice and Enterprise Integration Architecture",
+		"Cloud-Native Development using AWS, Azure and Google Cloud",
+		"Generative AI, LLM Integration, Prompt Engineering and Retrieval-Augmented Generation (RAG)",
+		"Workflow Automation using n8n and AI-assisted Development",
+		"DevOps, CI/CD, Git, Maven, Jenkins and Containerization using Docker/Podman",
+		"Oracle, SQL Server, PostgreSQL, MySQL, Elasticsearch, Redis and MongoDB",
+		"Linux Administration, Shell Scripting, PowerShell and Automation",
+		"Solution Design, Agile Delivery and Enterprise Support Operations",	
+        "NodeJS and Python Development"
+    ],
+    "workExperience": [
+        { "dates": "Jan 2022 - Present", "works": "Senior Technical Consultant at Arvato Systems Malaysia" },
+        { "dates": "May 2017 - Dec 2021", "works": "Senior Software Engineer at DXC Technology, Malaysia" },
+        { "dates": "Jan 2013 - May 2017", "works": "Senior Java Developer at Hewlett Packard, Malaysia" },
+        { "dates": "Apr 2009 - Dec 2012", "works": "Technical Leader at PT. Visi Solusi Teknologi, Indonesia" },
+        { "dates": "Sep 2004 - Apr 2009", "works": "Senior Programmer at Fujitsu Indonesia" },
+        { "dates": "Sep 2003 - Aug 2004", "works": "IT Staff at Mandala Airlines Indonesia" },
+        { "dates": "Jan 2003 - Aug 2003", "works": "Programmer - Indonesia" }
+    ],
+    "skills": [
+		{ "name": "Enterprise Solution Architecture", "rating": "★★★★★" },
+		{ "name": "Java / Spring Development", "rating": "★★★★★" },
+		{ "name": "Cloud Computing (AWS/Azure/GCP)", "rating": "★★★★★" },
+		{ "name": "Enterprise Integration & APIs", "rating": "★★★★★" },
+		{ "name": "Product Information Management (PIM)", "rating": "★★★★★" },
+		{ "name": "Generative AI & LLM Integration", "rating": "★★★★" },
+		{ "name": "SAP BTP & SAPUI5", "rating": "★★★★" },
+		{ "name": "Database Technologies", "rating": "★★★★★" },
+		{ "name": "Workflow Automation (n8n)", "rating": "★★★★" },
+		{ "name": "DevOps & Containerization", "rating": "★★★★" },	
+        { "name": "Python Development", "rating": "★★★★★" },
+        { "name": "NodeJS Development", "rating": "★★★" },
+        { "name": "Linux Development", "rating": "★★★★★" },
+        { "name": "Relational Database Development", "rating": "★★★★★" },
+        { "name": "No-SQL/Memory DB Development", "rating": "★★★★★" }
+    ],
+    "certifications": [
+        { "label": "AWS Certified Cloud Practitioner", "url": "https://www.credly.com/badges/15dcb2ac-f17d-49b3-9f04-a2d1541faa07" }
+    ],
+    "links": [
+        { "label": "about me", "url": "about-me.html" },
+        { "label": "contact me", "url": "contact-me.html" },
+        { "label": "linked in", "url": "https://www.linkedin.com/in/distareza/" }
+    ],
+    "about": {
+        "pageTitle": "Dista Reza",
+        "heroName": "I'm Dista Reza",
+        "profession": "a programmer",
+        "greeting": "Hello.",
+		"intro": "I am a **Senior Technical Consultant**, **Solution Architect**, and **Technical Lead** specializing in Enterprise Integration, Product Information Management (PIM), Cloud Computing, and AI-enabled Solutions.",
+        "careerHeading": "My Career",
+        "careerTitle": "Java Enterprise Development",
+		"careerDescription": "With over 20 years of experience, I have delivered enterprise-scale solutions across automotive, retail, finance, telecommunications, manufacturing, and airline industries using Java, Cloud Platforms, REST APIs, SAP Technologies, Informatica PIM, and Generative AI solutions.",
+        "educationTitle": "Education",
+        "educationDescription": "My Bachelors Degree of Informatics Engineering came from **Sekolah Tinggi Teknologi Telkom (STTTelkom)**, Bandung, West Java, Indonesia, in July 2002.",
+        "contactHeading": "Get In Touch",
+        "contactEmail": "dista_reza@yahoo.com",
+        "contactButton": "CONTACT ME",
+        "footerLinks": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/distareza/" },
+            { "label": "Instagram", "url": "https://www.instagram.com/kucingjantan" }
+        ],
+        "copyright": "© 2022 Dista Reza."
+    },
+    "contact": {
+        "pageTitle": "Contact Me",
+        "heading": "Contact Detail",
+        "email": "dista_reza@yahoo.com",
+        "labels": {
+            "name": "Your Name :",
+            "email": "Your Email : ",
+            "message": "Your Message : "
+        },
+        "submit": "Submit",
+        "thankYou": "Thank you for being respectful, I will answer your message once I read it. Have a nice day ahead"
+    }
+}
